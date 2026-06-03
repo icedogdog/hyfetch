@@ -38,6 +38,10 @@
   },
   "aroace2": ["#000000", "#810081", "#A4A4A4", "#FFFFFF", "#A8D47A", "#3BA740"],
   "aroace3": ["#3BA740", "#A8D47A", "#FFFFFF", "#ABABAB", "#000000", "#A4A4A4", "#FFFFFF", "#810081"],
+  "grayace": {
+    "colors": ["#810081", "#A4A4A4", "#FFFFFF", "#A4A4A4", "#810081"],
+    "comment": "color matched from asexual flag"
+  },
   "demisexual": {
     "colors": ["#000000", "#FFFFFF", "#6F0071", "#D3D3D3"],
     "weights": [2, 3, 1, 3],
